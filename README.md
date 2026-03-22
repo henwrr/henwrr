@@ -31,7 +31,3 @@ Currently expanding my skills in data science and financial analytics.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xndr_rsky)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henwrr&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
