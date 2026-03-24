@@ -1,4 +1,4 @@
-# Hi, I'm Alexandr 👋
+# Hi, I'm Alexandr 
 
 **Student at the Financial University under the Government of the Russian Federation**
 
