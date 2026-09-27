@@ -2,10 +2,10 @@
 
 ### About Me
 
-*Student at the Financial University under the Government of the Russian Federation
+***Student at the Financial University under the Government of the Russian Federation
 Data Science student passionate about applying machine learning to
   real-world problems. Have production experience building deep learning systems
-   on large-scale geospatial data. Interested in a wide range of ML domains.*
+   on large-scale geospatial data. Interested in a wide range of ML domains.***
 ---
 
 ### Tech Stack
