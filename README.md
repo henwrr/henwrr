@@ -1,11 +1,8 @@
-# Hi, I'm Alexandr 
-
-**Student at the Financial University under the Government of the Russian Federation**
-
----
+# I'm Alexandr 
 
 ### About Me
 
+**Student at the Financial University under the Government of the Russian Federation**
 ---
 
 ### Tech Stack
