@@ -17,7 +17,13 @@
 
 ### Projects
 
-> *Coming soon — stay tuned.*
+Churn Brew — ML model for predicting customer churn in a coffee delivery      
+  service. Binary classification on 10,450 records, PR AUC 0.72 on test set.  
+  Stack: Python, scikit-learn, pandas.                                          
+   
+vseTut Data Mart — data mart for the «vseTut» marketplace built with          
+  PostgreSQL. Aggregates customer behavior across regions, user segmentation and
+   ad hoc sales analysis
 
 ---
 
