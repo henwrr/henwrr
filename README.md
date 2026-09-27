@@ -6,10 +6,6 @@
 
 ### About Me
 
-I am a 3rd-year Finance University student with a passion for data analysis and programming. I work with Python and SQL to solve analytical and automation tasks.
-
-Currently expanding my skills in data science and financial analytics.
-
 ---
 
 ### Tech Stack
@@ -29,5 +25,7 @@ Currently expanding my skills in data science and financial analytics.
 ### Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xndr_rsky)
+
+[![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](www.linkedin.com/in/aleksandr-rakovsky-220463425)
 
 ---
