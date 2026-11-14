@@ -20,6 +20,9 @@ Data Science student passionate about applying machine learning to
 
 ### Projects
 
+**[AutoML Research Agent — Alfa Hack](https://github.com/henwrr/alfa-hack-automl-agent)** — team hackathon project: an autonomous agent that builds a model for an unseen tabular task (regression / multiclass) within 3 hours on 8 CPUs and writes the submission. The host owns cross-validation, scoring and model selection; an LLM (Qwen, tool calling) only proposes model recipes. My part: an agent prototype with time-budgeted CatBoost / LightGBM / XGBoost search and holdout validation, which became the basis of the final search module.  
+Stack: Python, CatBoost, LightGBM, XGBoost, scikit-learn, LLM tool calling.
+
 **[User Age Prediction](https://github.com/henwrr/user_age_prediction)** — ML model that predicts a user's age group from their digital footprint (site visits, time-of-day activity, devices, ad engagement). Multiclass classification over 5,826 users and ~1M visit logs, F1-macro 0.89 on test set. Feature engineering, sklearn Pipeline, SVC, CLI for training and inference, pytest + GitHub Actions.  
 Stack: Python, scikit-learn, pandas.
 
