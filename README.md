@@ -20,13 +20,17 @@ Data Science student passionate about applying machine learning to
 
 ### Projects
 
-Churn Brew — ML model for predicting customer churn in a coffee delivery      
-  service. Binary classification on 10,450 records, PR AUC 0.72 on test set.  
-  Stack: Python, scikit-learn, pandas.                                          
-   
-vseTut Data Mart — data mart for the «vseTut» marketplace built with          
-  PostgreSQL. Aggregates customer behavior across regions, user segmentation and
-   ad hoc sales analysis
+**[User Age Prediction](https://github.com/henwrr/user_age_prediction)** — ML model that predicts a user's age group from their digital footprint (site visits, time-of-day activity, devices, ad engagement). Multiclass classification over 5,826 users and ~1M visit logs, F1-macro 0.89 on test set. Feature engineering, sklearn Pipeline, SVC, CLI for training and inference, pytest + GitHub Actions.  
+Stack: Python, scikit-learn, pandas.
+
+**[Advandex CTR Prediction](https://github.com/henwrr/advandex-ctr-prediction)** — CTR prediction model with probability calibration. Sklearn Pipeline with target encoding and isotonic regression for well-calibrated click probabilities.  
+Stack: Python, scikit-learn, pandas.
+
+**[Churn Brew](https://github.com/henwrr/Churn_Brew)** — ML model for predicting customer churn in a coffee delivery service. Binary classification on 10,450 records, PR AUC 0.72 on test set.  
+Stack: Python, scikit-learn, pandas.
+
+**[vseTut Data Mart](https://github.com/henwrr/vseTut-data-mart)** — data mart for the «vseTut» marketplace built with PostgreSQL. Aggregates customer behavior across regions, user segmentation and ad hoc sales analysis.  
+Stack: PostgreSQL, SQL.
 
 ---
 
